@@ -1,3 +1,4 @@
 test master file for commit to master branch
 test commit 1
 test commit 2
+test commit 3
