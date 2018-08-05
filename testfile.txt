@@ -1,2 +1,3 @@
 test commit message 1
 test commit message 2
+test commit message 3
